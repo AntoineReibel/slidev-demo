@@ -17,6 +17,9 @@ importers:
       '@slidev/theme-seriph':
         specifier: latest
         version: 0.25.0
+      slidev-addon-excalidraw:
+        specifier: ^1.0.4
+        version: 1.0.4
       vue:
         specifier: ^3.5.26
         version: 3.5.27(typescript@5.9.3)
@@ -2227,6 +2230,9 @@ packages:
 
   sisteransi@1.0.5:
     resolution: {integrity: sha512-bLGGlR1QxBcynn2d5YmDX4MGjlZvy2MRBDRNHLJ8VI6l6+9FUiyTFNJ0IveOSP0bcXgVDPRcfGqA0pjaqUpfVg==}
+
+  slidev-addon-excalidraw@1.0.4:
+    resolution: {integrity: sha512-BLSn1RDXbcIvUypzKPZxc62sCD15hUEk3wOdL7UP8mI6StN4em3bsWNKQp/10dECK5GXRu9Q6Rlxaau9WkKvdw==}
 
   source-map-js@1.2.1:
     resolution: {integrity: sha512-UXWMKhLOwVKb728IUtQPXxfYU+usdybtUrK/8uGE8CQMvrhOpwvzDBwj0QhSL7MQc7vIsISBG8VQ8+IDQxpfQA==}
@@ -5349,6 +5355,8 @@ snapshots:
       totalist: 3.0.1
 
   sisteransi@1.0.5: {}
+
+  slidev-addon-excalidraw@1.0.4: {}
 
   source-map-js@1.2.1: {}
 
