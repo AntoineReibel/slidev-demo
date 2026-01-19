@@ -56,7 +56,7 @@ transition: fade-out
 drawFilePath="./archi-app-tp-1.excalidraw"
 class="w-[600px]"
 :darkMode="false"
-:background="false"
+:background="true"
 />
 
 ---
@@ -70,5 +70,5 @@ level: 2
 drawFilePath="./archi-app-tp-4.excalidraw"
 class="w-[600px]"
 :darkMode="false"
-:background="false"
+:background="true"
 />
